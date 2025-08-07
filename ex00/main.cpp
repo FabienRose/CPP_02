@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: fmixtur <fmixtur@student.42lausanne.ch>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 17/04/2025 11:05:32 by fmixtur           #+#    #+#             */
-/*   Updated: 17/04/2025 11:09:02 by fmixtur          ###   ########.ch       */
+/*   Created: 2025/08/07 15:05:47 by fmixtur           #+#    #+#             */
+/*   Updated: 2025/08/07 15:05:47 by fmixtur          ###   ########.ch       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,4 +24,4 @@ int main(void) {
     std::cout << c.getRawBits() << std::endl;
 
     return 0;
-} 
+}
